@@ -26,14 +26,3 @@
 - ...(还没写，别着急)
 
 ## 访问地址
-
-- <https://notes.fe-mm.com>
-- <https://mm-notes.vercel.app>
-- <https://mm-notes.netlify.app>
-- <https://maomao1996.github.io/mm-notes>
-
-## 鼓励作者
-
-如果你觉得博客对你有帮助，可以帮忙点个 `star` 或者打赏犒劳一下
-
-![鼓励作者](https://cdn.jsdelivr.net/gh/maomao1996/picture/sponsor/sponsor.jpg)
