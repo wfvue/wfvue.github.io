@@ -1,7 +1,7 @@
 {
-  "name": "茂茂物语",
-  "short_name": "茂茂物语",
-  "description": "Mao Mao 的成长之路",
+  "name": "wfvue随笔",
+  "short_name": "wfvue随笔",
+  "description": "wfvue随笔介绍",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
